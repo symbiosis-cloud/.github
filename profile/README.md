@@ -1,4 +1,4 @@
-<h2>Symbiosis ☁️<</h2>
+<h2>Symbiosis ☁️</h2>
 
 Our goal is to offer a simpler, cheaper and better Kubernetes service, without exorbitant ~~hostage~~ egress fees or other vendor lock-in mechanics.
 
